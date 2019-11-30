@@ -1,6 +1,6 @@
 # CSE676-Deep-Learning-Project-2
 
-Authors:
+Authors:<br>
 Anish Gadekar
 Parth Shah
 Shruti Bendale
